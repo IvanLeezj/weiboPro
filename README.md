@@ -1,2 +1,2 @@
 # weiboPro
-Base on redis-scrapy
+A spider based on scrapy-redis
